@@ -1,0 +1,14 @@
+# Node modules
+node_modules/
+.env
+.env.local
+.DS_Store
+
+# Build files
+build/
+dist/
+.vercel/
+.cache/
+
+# Log files
+*.log

@@ -1,0 +1,146 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #fff;
+  color: #333;
+}
+
+.card img {
+  height: 260px;
+  object-fit: cover;
+}
+
+.card {
+  border: none;
+  transition: 0.3s;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+body {
+  background-color: #f7f9fb;
+}
+
+.card {
+  border: none;
+  border-radius: 10px;
+}
+
+.btn-primary {
+  background-color: #5cb6b4;
+  border-color: #5cb6b4;
+}
+
+.btn-primary:hover {
+  background-color: #48a3a0;
+}
+.card-hover {
+  border-radius: 15px;
+  overflow: hidden;
+  transition: 0.4s;
+}
+
+.card-hover:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.12);
+}
+
+.card-hover img:hover {
+  transform: scale(1.05);
+}
+
+.hero-section {
+  font-family: "Poppins", sans-serif;
+}
+
+.btn-outline-primary,
+.btn-outline-success {
+  border-radius: 20px;
+  transition: 0.3s;
+}
+
+.btn-outline-primary:hover,
+.btn-outline-success:hover {
+  transform: scale(1.05);
+}
+.card-hover {
+  border-radius: 15px;
+  overflow: hidden;
+  transition: 0.4s;
+}
+
+.card-hover:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+}
+
+.card-hover img:hover {
+  transform: scale(1.05);
+}
+
+.hero-section {
+  font-family: "Poppins", sans-serif;
+}
+
+.btn {
+  transition: 0.3s ease;
+}
+
+.btn:hover {
+  transform: scale(1.05);
+}
+.card-hover {
+  border-radius: 15px;
+  overflow: hidden;
+  transition: 0.4s;
+}
+
+.card-hover:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+}
+
+.card-hover img:hover {
+  transform: scale(1.05);
+}
+.meditation-card {
+  border-radius: 15px;
+  overflow: hidden;
+  transition: 0.4s;
+}
+
+.meditation-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+}
+
+.meditation-card img:hover {
+  transform: scale(1.05);
+}
+
+audio {
+  outline: none;
+  border-radius: 6px;
+}
+
+.btn-outline-success {
+  border-radius: 20px;
+  transition: 0.3s;
+}
+
+.btn-outline-success:hover {
+  background-color: #5cb6b4;
+  border-color: #5cb6b4;
+}
+textarea {
+  resize: none;
+}
+
+.card {
+  border-radius: 15px;
+}
+
+.badge {
+  font-size: 0.85rem;
+}
